@@ -39,6 +39,24 @@ MongoDB installed and running locally or a cloud instance.
 <br/>
 ➙  Advanced MERN topics like state management with Redux, authentication with JWT, integrating third-party APIs, and performance optimization.
 <br/>
+
+### Project Structure
+<br/>
+
+```bash
+mern-stack-application/
+├── client/                 # React front-end
+│   ├── public/
+│   └── src/
+├── server/                 # Node.js and Express back-end
+│   ├── config/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   └── index.js
+└── README.md
+```
+
 <h2>Key Features</h2>
 
 ➤  **Structured Content**: The repository is organized into clear sections for easy navigation and learning.
