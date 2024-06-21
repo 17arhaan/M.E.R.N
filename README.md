@@ -7,20 +7,30 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3>LeetCode Solutions</h3> 
+### Features
+User Authentication: Sign up, login, and logout functionality.
+CRUD Operations: Create, read, update, and delete operations on various resources.
+Responsive Design: A mobile-friendly and user-friendly interface.
+API Integration: Well-defined RESTful APIs for seamless client-server communication.
 
-●  A collection of efficient and well-documented solutions to a wide range of LeetCode problems. These solutions are designed to help you understand different problem-solving techniques and improve your algorithmic skills.
+### Technologies Used
+**MongoDB:** NoSQL database for storing application data.
 <br/>
-●  Solutions are organized by difficulty (easy, medium, hard) and topic (e.g., arrays, strings, dynamic programming).
+**Express.js:** Web application framework for Node.js.
 <br/>
-<h3>Artificial Intelligence and Its Algorithms</h3>
+**React:** JavaScript library for building user interfaces.
+<br/>
+**Node.js:** JavaScript runtime environment for executing server-side code.
+<br/>
 
-➙  Implementations of fundamental AI algorithms including but not limited to search algorithms, machine learning models, neural networks, and optimization techniques.
+### Prerequisites
+Before you begin, ensure you have met the following requirements:
 <br/>
-➙  Detailed explanations and code examples of popular AI algorithms such as A*, k-means clustering, decision trees, and deep learning architectures.
+Node.js and npm installed on your machine.
 <br/>
-➙  Real-world applications showcasing how AI can be used to solve practical problems.
+MongoDB installed and running locally or a cloud instance.
 <br/>
+
 <h3>MERN Projects</h3>
 
 ➙  Sample projects and tutorials demonstrating the power of the MERN stack (MongoDB, Express.js, React, Node.js) for web development.
@@ -51,25 +61,7 @@
 2. **Navigate to a Project**: Explore the `MERN` directory to find the project you want to work on.
 3. **Follow the Instructions**: Each project folder contains a `README.md` with setup instructions and detailed information.
 4. **Learn and Contribute:** Use the repository as a learning resource and feel free to contribute by submitting issues, pull requests, or suggestions.
-
-<br/>
-
-*Contributions are welcome! Please follow these steps:*
-<br/>
-Fork the repository.
-<br/>
-Create a new branch (git checkout -b feature/your-feature).
-<br/>
-Make your changes.
-<br/>
-Commit your changes (git commit -m 'Add some feature').
-<br/>
-Push to the branch (git push origin feature/your-feature).
-<br/>
-Open a pull request.
-<br/>
-
-6. **Run the Project**: Follow the setup instructions to run the project locally using
+5. **Run the Project**: Follow the setup instructions to run the project locally using
    ```bash
     npm start
     ```
