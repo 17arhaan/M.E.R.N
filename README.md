@@ -51,7 +51,9 @@
 2. **Navigate to a Project**: Explore the `MERN` directory to find the project you want to work on.
 3. **Follow the Instructions**: Each project folder contains a `README.md` with setup instructions and detailed information.
 4. **Learn and Contribute:** Use the repository as a learning resource and feel free to contribute by submitting issues, pull requests, or suggestions.
+
 <br/>
+
 *Contributions are welcome! Please follow these steps:*
 <br/>
 Fork the repository.
