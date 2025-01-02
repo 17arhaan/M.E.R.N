@@ -28,16 +28,14 @@ User can sign in or sign up
 After signing in user can go to account page and make request to token-protected API endpoint
 ![After signing in user can go to account page](http://i.imgur.com/FzLB51u.png)
 
-## Bugs or comments
-[Create new Issues](https://github.com/amazingandyyy/mern/issues)
+## BUGs or comments
+[Create new Issues](https://github.com/17arhaan/M.E.R.N/issues)
 
 ## Author
-[Amazingandyyy](amazingandyyy.github.io)
-- Feel free to find me on _[GitHub](https://github.com/amazingandyyy)_ and _[LiveCoding](https://www.livecoding.tv/amazingandyyy/)_
-- or visit my _[page](http://amazingandyyy.github.io/)_
+--> Arhaan Girdhar
+- Feel free to find me on _[GitHub](https://github.com/17arhaan)_ or _[Linkedin](https://www.linkedin.com/in/arhaan17)_
+- or visit my _[page](http://arhaanportfolio.in)_
 
-### License
-[MIT](https://github.com/amazingandyyy/eventbrite-api/blob/master/LICENSE)
 
 
 ### TODO
