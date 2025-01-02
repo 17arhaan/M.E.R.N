@@ -22,7 +22,7 @@ $ yarn build  // this will build the server code to es5 js codes and generate a 
 ```
 
 ## BUGs or comments
-[Create new Issues](https://github.com/amazingandyyy/mern/issues)
+[Create new Issues](https://github.com/17arhaan/MERN/issues)
 
 ## Author
 --> Arhaan Girdhar
